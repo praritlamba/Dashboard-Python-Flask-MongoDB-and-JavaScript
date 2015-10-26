@@ -64,3 +64,6 @@ Defining DC Charts:
 	var dataTable = dc.dataTable("#data-chart");
 ```
 
+#Screenshot
+
+![ScreenShot](https://github.com/praritlamba/Dashboard-Python-Flask-MongoDB-and-JavaScript/blob/master/s1.png)
